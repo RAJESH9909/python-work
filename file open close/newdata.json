@@ -1,0 +1,82 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "amit",
+            "friend": [
+                2
+            ],
+            "liked_page": [
+                101
+            ]
+        },
+        {
+            "id": 2,
+            "name": "priya",
+            "friend": [
+                1,
+                4
+            ],
+            "liked_page": [
+                102
+            ]
+        },
+        {
+            "id": 3,
+            "name": "sara",
+            "friend": [
+                1
+            ],
+            "liked_page": [
+                101,
+                103
+            ]
+        },
+        {
+            "id": 4,
+            "name": "sera",
+            "friend": [
+                2,
+                2
+            ],
+            "liked_page": [
+                104
+            ]
+        },
+        {
+            "id": 5,
+            "name": "aman",
+            "friend": [],
+            "liked_page": []
+        },
+        {
+            "id": 6,
+            "name": "rahul",
+            "friend": [
+                1
+            ],
+            "liked_page": [
+                101,
+                104
+            ]
+        }
+    ],
+    "pages": [
+        {
+            "id": 101,
+            "name": "python_developer"
+        },
+        {
+            "id": 102,
+            "name": "data_science_developer"
+        },
+        {
+            "id": 103,
+            "name": "Ai&ml_developer"
+        },
+        {
+            "id": 104,
+            "name": "web_developer"
+        }
+    ]
+}
